@@ -8,3 +8,4 @@ To run the game:
 python main.py
 
 task 3
+python3 test.py
